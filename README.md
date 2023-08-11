@@ -1,4 +1,4 @@
-# Terraform
+# Terrific is an Open Source Fork of Terraform
 
 - Website: https://www.terraform.io
 - Forums: [HashiCorp Discuss](https://discuss.hashicorp.com/c/terraform-core)
